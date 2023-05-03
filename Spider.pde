@@ -1,8 +1,3 @@
-/*
-Student ID: 47743220
-Student Name: Htet Yamin Ei
-*/
-
 int x = 35; //spider's x
 int y = 35; //spider's y
 int movement = 70;
